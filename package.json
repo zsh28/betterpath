@@ -1,5 +1,5 @@
 {
-  "name": "med-v2",
+  "name": "betterpath",
   "private": true,
   "scripts": {
     "build": "turbo run build",
